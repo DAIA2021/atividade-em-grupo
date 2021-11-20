@@ -1,0 +1,3 @@
+definicao das funcoes do app
+informativos
+seguranca
